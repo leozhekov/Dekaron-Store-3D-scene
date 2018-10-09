@@ -2,3 +2,5 @@
   
     
  These are only the renders from my 3D scene project.
+ The textures of the weapons are taken from the game [Dekaron](https://dekaron.papayaplay.com/dekaron.do) that I used to play 8-9 years ago.  
+ > Every mesh, object, prop, material is created by hand by me. 
